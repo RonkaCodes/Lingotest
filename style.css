@@ -120,6 +120,6 @@ button:hover{
     .navbar ul li{  
         margin: 0 0px;
         padding: 3px;
-        transform: translateX(-30px);
+        transform: translateX(-300px);
     }
 }
