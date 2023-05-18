@@ -132,7 +132,7 @@ button:hover{
 }
 @media screen and (max-width:400px) {
   .wwyltl{
-    margin-top: -195%;
+    margin-top: -175%;
   }
   .navbar ul li{
     transform: translateY(-130%);
